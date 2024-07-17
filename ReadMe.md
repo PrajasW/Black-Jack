@@ -36,7 +36,7 @@ Blackjack, also known as 21, is one of the most popular casino card games. This 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/blackjack-simulation.git
+   git clone https://github.com/PrajasW/Black-Jack.git
    cd blackjack-simulation
    ```
 
