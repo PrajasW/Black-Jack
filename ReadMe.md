@@ -1,5 +1,5 @@
 
-# Blackjack Simulation
+# Blackjack Simulation ♠️
 
 This repository contains a Jupyter notebook that simulates multiple rounds of the Blackjack card game. The simulation includes betting strategies and tracks the player's balance over time.
 
@@ -12,7 +12,6 @@ This repository contains a Jupyter notebook that simulates multiple rounds of th
 - [Notebook Contents](#notebook-contents)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -37,7 +36,7 @@ Blackjack, also known as 21, is one of the most popular casino card games. This 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/blackjack-simulation.git
+   git clone https://github.com/PrajasW/Black-Jack.git
    cd blackjack-simulation
    ```
 
@@ -66,9 +65,14 @@ The notebook includes the following sections:
 
 ## Results
 
-The simulation outputs a histogram of the final balances after multiple games and prints the mean balance. This helps in understanding the effectiveness of the betting strategy implemented.
 
-![Balance Histogram](ss_upcoming)
+The simulation outputs a histogram of the final balances after multiple games and prints the mean balance. This helps in understanding the effectiveness of the betting strategy implemented. Here I tested it by running 100 hands in each game, playing total of 100 games. I initally set the balance to 100 points.
+>  #### The balance in 100 games.
+> ![image](https://github.com/user-attachments/assets/d5c2bd0f-cadf-4be7-998d-9aa81b979328)
+
+>  #### The balance in end after 100 games.
+>   ![image](https://github.com/user-attachments/assets/725f6ca8-e048-4f3b-ad3a-45759e38f7c1)
+
 
 ## Contributing
 
