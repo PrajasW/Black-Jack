@@ -73,8 +73,13 @@ The simulation outputs a histogram of the final balances after multiple games an
 >  #### The histogram of balance in end after 100 games.
 >   ![image](https://github.com/user-attachments/assets/4ee1badb-02f5-47ca-8844-0984d4027339)
 
-> #### The plot of each 100 games
-> [end_balance.pdf](https://github.com/user-attachments/files/16288383/end_balance.pdf)
+> #### The plot of each 100 games with different conditions
+> [double_or_nothing.pdf](https://github.com/user-attachments/files/16288552/double_or_nothing.pdf)
+> [ten_rounds_honest_play.pdf](https://github.com/user-attachments/files/16288553/ten_rounds_honest_play.pdf)
+> [give_me_some_profit_I_will_go_10_rounds_cap.pdf](https://github.com/user-attachments/files/16288555/give_me_some_profit_I_will_go_10_rounds_cap.pdf)
+
+
+
 
 
 ## Contributing
