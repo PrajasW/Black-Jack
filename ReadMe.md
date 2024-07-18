@@ -70,8 +70,9 @@ The simulation outputs a histogram of the final balances after multiple games an
 >  #### The balance plot in 10 games.
 > ![all_fig](https://github.com/user-attachments/assets/a6e0bcea-fe2b-432f-90f7-41912a195c89)
 
->  #### The histogram of balance in end after 100 games.
->   ![image](https://github.com/user-attachments/assets/4ee1badb-02f5-47ca-8844-0984d4027339)
+>  #### The histogram of balance in end after 100 games [10 hands per game].
+>   ![image](https://github.com/user-attachments/assets/3c051378-cdab-48d1-b96e-f664f47934d0)
+
 
 > #### The plot of each 100 games with different conditions
 > [double_or_nothing.pdf](https://github.com/user-attachments/files/16288552/double_or_nothing.pdf)
